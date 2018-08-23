@@ -1,6 +1,6 @@
 # SNF_EHR_Clustering
 Scripts used to generate simulated data as well as run SNF on data.
-#### Note: currently this repository contains all of the versions of the iterative versions of these scripts. All versions should have accurate comments in the code itself.
+#### Note: currently this repository contains all of the iterative versions of these scripts. All versions should have accurate comments in the code itself.
 
 ## Most Up to Date Code
 ### Scripts to generate simulated EHR data
